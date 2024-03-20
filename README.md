@@ -1,6 +1,6 @@
-# Reddit Clone
+# Amplify - A Personalised News Hub Tailored To You
 
-Responsive Full Stack Reddit Clone - Works on Android, iOS & Web! 
+Responsive Full Stack Application - Works on Android, iOS & Web! 
 
 ## Features
 - Google/Guest Authentication
@@ -22,29 +22,6 @@ Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 - Responsive UI
 - Latest posts (instead of home, display this to guest users) 
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/B8Sx7wGiY-s) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-reddit-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
-
-## Installation
-After cloning this repository, migrate to ```flutter-reddit-clone``` folder. Then, follow the following steps:
-- Create Firebase Project
-- Enable Authentication (Google Sign In, Guest Sign In)
-- Make Firestore Rules
-- Create Android, iOS & Web Apps
-- Use FlutterFire CLI to add the Firebase Project to this app.
-Then run the following commands to run your app:
-```bash
-  flutter pub get
-  open -a simulator (to get iOS Simulator)
-  flutter run
-  flutter run -d chrome --web-renderer html (to see the best output)
-```
-
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
@@ -52,4 +29,4 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at bandilokesh53@gmail.com
